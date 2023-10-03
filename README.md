@@ -1,5 +1,5 @@
 # spell-beautiful-people
-Spell and Chant
+Spell and Chant from Phoenix
 
 We   are beautiful people
 

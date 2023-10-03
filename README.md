@@ -1,5 +1,5 @@
 # spell-beautiful-people
-Spell
+Spell and Chant
 
 We   are beautiful people
 
